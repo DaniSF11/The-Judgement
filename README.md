@@ -1,4 +1,4 @@
-## The Judgment
+## The Judgement
 
 A brand new Metroidvania videogame which takes place in Salheim, a cursed underworld land.
 
