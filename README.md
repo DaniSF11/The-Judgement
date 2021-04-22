@@ -2,7 +2,7 @@
 
 A brand new Metroidvania videogame which takes place in Salheim, a cursed underworld land.
 
-(Foto)
+![ICONO_JUEGO](https://user-images.githubusercontent.com/81293433/115764932-6fc4d000-a3a6-11eb-8f76-9f4d31f49c50.jpg)
 
 ### Description of the Project:
 
