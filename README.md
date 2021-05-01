@@ -4,8 +4,8 @@ A brand new Metroidvania videogame which takes place in Salheim, a cursed underw
 
 ![ICONO_JUEGO](https://user-images.githubusercontent.com/81293433/115764932-6fc4d000-a3a6-11eb-8f76-9f4d31f49c50.jpg)
 
-    
-    <header>
+
+<header>
         <div class="menu">
             <img src:"https://user-images.githubusercontent.com/81293433/115764932-6fc4d000-a3a6-11eb-8f76-9f4d31f49c50.jpg" alt="">
         <nav>
@@ -18,7 +18,8 @@ A brand new Metroidvania videogame which takes place in Salheim, a cursed underw
             </ul>
         </nav>
         </div>
-    </header>
+</header>
+
 
 ### Description of the Project:
 
