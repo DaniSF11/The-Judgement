@@ -9,3 +9,8 @@ body {
   fond-family: 'arial';
 }
   
+.menu {
+  width: 900px;
+  margin: 0 auto;
+  
+}
