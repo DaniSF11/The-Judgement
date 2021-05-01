@@ -4,6 +4,16 @@ A brand new Metroidvania videogame which takes place in Salheim, a cursed underw
 
 ![ICONO_JUEGO](https://user-images.githubusercontent.com/81293433/115764932-6fc4d000-a3a6-11eb-8f76-9f4d31f49c50.jpg)
 
+<nav>
+    Menú de Navegación:
+    <ul>
+    <li><a href="#presentacion">Presentación de Juego</a></li>
+    <li><a href="#campaña">Campaña</a></li>
+    <li><a href="#faq">Preguntas Frecuentes</a></li>
+    <li><a href="#comentarios">Comentarios</a></li>
+    </ul>
+</nav>
+
 ### Description of the Project:
 
 The Judgement is an action Metroidvania. This videogames takes place in the devasted land of Salheim, once a pacific land and now a damned place where demons inhabit. Our main character, Lycoris, will enrole in a mission to search for her father Ignurse, who disappered in odd circunstances. Lycoris will have to face the daunting challenge of fighting Emperor Behase and his six sentinels of darkness.
