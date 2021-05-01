@@ -11,7 +11,7 @@ A brand new Metroidvania videogame which takes place in Salheim, a cursed underw
         <nav>
             Menú de Navegación:
             <ul>
-                <li><a href="https://github.com/DaniSF11/The-Judgement/blob/main/presentacion%20juego">Presentación de Juego</a></li>
+                <li><a href="#presentacion">Presentación de Juego</a></li>
                 <li><a href="#campaña">Campaña</a></li>
                 <li><a href="#faq">Preguntas Frecuentes</a></li>
                 <li><a href="#comentarios">Comentarios</a></li>
