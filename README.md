@@ -25,3 +25,6 @@ ATENCIÓN: Esta página simula la campaña de microfinanciación
 de un videojuego ficticio y no representa un producto real.
 Práctica de Multimedia, 1º GDDV - Curso 20/21 (Quintana), URJC.
 La URJC no se hace responsable del contenido expuesto por el autor
+
+#presentacion
+patata
