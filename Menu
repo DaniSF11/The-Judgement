@@ -1,9 +1,0 @@
-<nav>
-    Menú de Navegación:
-    <ul>
-    <li><a href="#presentacion">Presentación de Juego</a></li>
-    <li><a href="#campaña">Campaña</a></li>
-    <li><a href="#faq">Preguntas Frecuentes</a></li>
-    <li><a href="#comentarios">Comentarios</a></li>
-    </ul>
-</nav>
